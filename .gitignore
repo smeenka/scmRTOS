@@ -15,3 +15,11 @@
 *.exe
 *.out
 *.app
+
+#build output
+**/build/**
+Debug/**
+
+#Eclipse project files
+.cproject
+.project
